@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73338" started-at="2020-10-04T06:50:09 EDT" finished-at="2020-10-04T06:51:23 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73338" started-at="2020-10-04T06:50:09 EDT" finished-at="2020-10-04T06:51:23 EDT">
+      <class name="Test.emulator">
+        <test-method status="PASS" signature="openAppTest()[pri:1, instance:Test.emulator@6ebc05a6]" name="openAppTest" duration-ms="8038" started-at="2020-10-04T06:50:10 EDT" finished-at="2020-10-04T06:50:18 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAppTest -->
+        <test-method status="PASS" signature="registrationPageTest()[pri:2, instance:Test.emulator@6ebc05a6]" name="registrationPageTest" duration-ms="22462" started-at="2020-10-04T06:50:18 EDT" finished-at="2020-10-04T06:50:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationPageTest -->
+        <test-method status="PASS" signature="alreadyHaveAnAccountPageTest()[pri:3, instance:Test.emulator@6ebc05a6]" name="alreadyHaveAnAccountPageTest" duration-ms="11597" started-at="2020-10-04T06:50:40 EDT" finished-at="2020-10-04T06:50:52 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alreadyHaveAnAccountPageTest -->
+        <test-method status="PASS" signature="profileTest()[pri:4, instance:Test.emulator@6ebc05a6]" name="profileTest" duration-ms="11746" started-at="2020-10-04T06:50:52 EDT" finished-at="2020-10-04T06:51:03 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profileTest -->
+        <test-method status="PASS" signature="timelineTest()[pri:5, instance:Test.emulator@6ebc05a6]" name="timelineTest" duration-ms="7119" started-at="2020-10-04T06:51:03 EDT" finished-at="2020-10-04T06:51:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timelineTest -->
+        <test-method status="PASS" signature="parkingLocations()[pri:6, instance:Test.emulator@6ebc05a6]" name="parkingLocations" duration-ms="9113" started-at="2020-10-04T06:51:10 EDT" finished-at="2020-10-04T06:51:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parkingLocations -->
+        <test-method status="PASS" signature="settingsTest()[pri:7, instance:Test.emulator@6ebc05a6]" name="settingsTest" duration-ms="3214" started-at="2020-10-04T06:51:20 EDT" finished-at="2020-10-04T06:51:23 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingsTest -->
+      </class> <!-- Test.emulator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
